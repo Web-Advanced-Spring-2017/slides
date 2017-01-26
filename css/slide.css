@@ -1,0 +1,25 @@
+.remark-slide-content {
+  background: #1d2831;
+  color: #fff;
+}
+.remark-slide-content h1 {
+  font-size: 4em;
+}
+.remark-slide-content h3 {
+  font-size: 2.5em;
+  letter-spacing: 0em;
+}
+.remark-slide-content a {
+  text-decoration: none;
+  color: #ff7f50;
+}
+.remark-code,
+.remark-inline-code {
+  font-family: 'Ubuntu Mono';
+}
+.remark-container {
+  background: #1d2831;
+}
+.remark-slide-scaler {
+  box-shadow: none;
+}
