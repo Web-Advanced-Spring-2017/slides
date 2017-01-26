@@ -8,6 +8,7 @@ class: center, middle
 ### Jaskirat R.
 
 [jaskiratr@newschool.edu](mailto:jaskiratr@newschool.edu)
+[jaskirat.me](http://jaskirat.me)
 
 ---
 class: middle
