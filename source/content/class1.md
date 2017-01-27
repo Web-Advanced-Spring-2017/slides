@@ -8,6 +8,7 @@ class: center, middle
 ### Jaskirat R.
 
 [jaskiratr@newschool.edu](mailto:jaskiratr@newschool.edu)
+[jaskirat.me](http://jaskirat.me)
 
 ---
 class: middle
@@ -51,9 +52,9 @@ This class is about :
 - General sense of deploying on various frameworks
 
 The focus is not on :
-- One specific JS library
-- Application workflow
-- A specific project theme
+- Specifically on front-end JS libraries like D3.js, p5.js or jQuery etc
+- A single project development throughout the semester
+- A specific MVC (Model View Controller)
 
 ---
 class: middle, center
@@ -92,17 +93,46 @@ class: middle, center
 ![img](https://media.giphy.com/media/zNFSIN8CtJzq0/giphy.gif)
 
 ---
-### Concepts
-- JS definitions
-- Variable and data types
-- Arrays vs Objects
-- Functions: declarations and expressions
-- Iteration
-- Conditionals statement
-- Scope and closure
-- Timing functions
+### Workflow Setup
+[How to install packages in Sublime?](https://www.granneman.com/webdev/editors/sublime-text/packages/how-to-install-and-use-package-control/)
+
+**Recommended Packages by Name**
+- All Autocomplete
+- Boxy Theme
+- Clickable URLs
+- GitGutter
+- HTML/CSS/JS Prettify
+- javascript-standard-style & NodeJS Snippets
+- Markdown Extended
+- Pug
+- Sass
+- Select Quoted
+- SublimeLinter
+- SublimeLinter-contrib-eslint
+- SublimeLinter-json
+
+---
+class: middle, center
+
+## Github Guide
+
+**Please make sure you go through these before next class**
+
+[Hello World : Guide](https://guides.github.com/activities/hello-world/)
+
+[Video Tutorial](https://www.youtube.com/watch?v=0fKg7e37bQE)
+
+[Interactive Tutorial](https://try.github.io/levels/1/challenges/1)
+
+---
+class: middle, center
+
+## Node.js Setup
+
+Download and Install Node.js from [here](https://nodejs.org/en/)
 
 ---
 class: middle, center
 
 ### sleep.exe
+You are awesome.
