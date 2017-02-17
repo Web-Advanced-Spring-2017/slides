@@ -1,25 +1,35 @@
 class: center, middle
 
-# Hello World
+# Js' an intro
 
 ---
 class: middle
 
-### Agenda
-1. Introductions
-	- Background
-	- Projects (current/old)
-	- Interests
-2. Syllabus Distribution
-3. Overview of JS
+### Overview of JS
+- JS definitions
+- Variable and data types
+- Arrays vs Objects
+- Functions: declarations and expressions
+- Iteration
+- Conditionals statement
+- Scope and closure
+- Timing functions
+- A pinch of ES6
 
 ---
 class: middle, center
 
-### Introductions
+### Mozilla Developer Network
+[Your go to guide for Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-![intro](https://media.giphy.com/media/8FNlmNPDTo2wE/giphy.gif)
-
----
 
 ---
+class: center, middle
+
+### Using git for [class wiki](https://github.com/Web-Advanced-Spring-2017)
+*Take Notes*
+
+---
+class: center, middle
+
+### Rinse and Repeat
