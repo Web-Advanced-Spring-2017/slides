@@ -1,7 +1,7 @@
 class: center, middle
 
 # Workflow essentials
-### Part I
+### Part I & II
 
 ---
 class: center, middle
